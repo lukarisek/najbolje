@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="}IoSk4s)%?6O*Rwt?que">strip</variable></variables><block type="device_forever" id="=?DMx1.a@tnn1])lH8TQ" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="G6tS@?)C:ExjKiJ)#rmF"><field name="i">IconNames.EigthNote</field><next><block type="playMelody" id="0NY]G7u8|VD2*[:%~L+["><value name="melody"><shadow type="melody_editor" id="lqnoMIG}oQFFy`?p%VuD"><field name="melody">"C5 B A G F E D C "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="?YO{@Y(m-=vDSl}/yx):"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="playMelody" id="E21#$#O*AQc]]V]Q!#^."><value name="melody"><shadow type="melody_editor" id="($D~0N1iL8OIZdhpk!}o"><field name="melody">"C D E F G A B C5 "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="0:P;yKSvq_Pys%lreR%B"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="playMelody" id="]RG+4i]|E$~*Mz-)P`4M"><value name="melody"><shadow type="melody_editor" id="aHwC032]E#Maq-mw/8M,"><field name="melody">"C5 B C5 B C5 B C5 B "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="vW%i7;hvV@voF4W(vsJC"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="playMelody" id="Ks3@mcI(.;eLE,PXGsUP"><value name="melody"><shadow type="melody_editor" id="uhG{6TQ,+*%p+yLl,om$"><field name="melody">"C5 C5 C5 C5 C C C C "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id=":Vbnsh|~hMDp.EW5)1oa"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="playMelody" id="_WumADp)Yo02kT.IEI}Q"><value name="melody"><shadow type="melody_editor" id="h1{+G!:Od6Rn(L?F6K?I"><field name="melody">"E D G F B A C5 B "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="wQ]%;5V=fT3[o+39u?/:"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="playMelody" id="$xT;:jtqW13}gdnn,t,a"><value name="melody"><shadow type="melody_editor" id="tO@o#,wN{ej_[RhyK/5E"><field name="melody">"B C5 - - - - - - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="|YmgXIO($-0*%@b6RyXp"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="device_show_leds" id="Gh?ax:VNvMlJMSJH65oY"><field name="LEDS">`
+        # . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="b1HPcaqy5w*eqG#dD@i)"><field name="LEDS">`
+        # # . . . 
+        # # . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="kKbCPIC+[#WhWvhhW(`I"><field name="LEDS">`
+        # # # . . 
+        # # # . . 
+        # # # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="b[;s}ty9#p8.;:{5RmiQ"><field name="LEDS">`
+        # # # # . 
+        # # # # . 
+        # # # # . 
+        # # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="`foODUw2.y98^TF2Lk`m"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="i*8![sM2u0R[46YGKn()"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
